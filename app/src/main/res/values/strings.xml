@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="song_name">Song Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="sorry_no_music_found">Sorry!! No Music Found.</string>
+    <string name="_00_00">00:00</string>
+</resources>
